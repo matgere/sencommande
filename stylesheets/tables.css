@@ -1,0 +1,33 @@
+/**
+ * Tables
+ */    
+
+	table {
+		border: 1px solid #AAAAAA;
+		border-collapse: collapse;
+		width: 98%;
+		margin: 10px;
+	}
+	table tr th {
+		background: #EEEEEE;
+	}
+	table tr {
+		border: 1px solid #AAAAAA;
+		
+	}
+	table tr td, table tr th {
+		border: 1px solid #AAAAAA;
+		padding: 5px;		
+	}
+	table tr td {
+		text-align: center;		
+	}
+	
+	table tfoot tr {
+		background: #EEEEEE;
+		font-size: 18px;
+	}
+	
+	table tr td.align-left {
+		text-align: left;
+	}

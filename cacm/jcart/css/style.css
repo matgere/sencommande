@@ -1,0 +1,21 @@
+/*
+jCart v1.3
+http://conceptlogic.com/jcart/
+
+This file represents any existing CSS your site may already use
+
+*/
+/*
+
+
+#sidebar { width:35%; float:right; }
+#content { width:60%; float:left; }
+
+.clear { clear:both; }
+*/
+/* Item forms */
+.jcart { margin:0 20px 20px 0; padding-top:20px; border:dashed 2px #66cc66; float:left; background:#fff; text-align:center; }
+.jcart ul { margin:0; list-style:none; padding:0 20px; text-align:left; }
+.jcart fieldset { border:0; }
+.jcart strong { color:#000066; }
+.jcart .button { margin:20px; padding:5px; }
